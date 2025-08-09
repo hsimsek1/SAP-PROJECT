@@ -47,4 +47,14 @@ Reason: Tracking customer sentiment across regions and time periods helps pinpoi
 Correct Answer: b. Order Returns Dataset with all returns of orders made by customers
 Reason: Data on whether orders are successfully completed or not can provide valuable insights when analyzing statistics by company location.
 
-3. 
+3. What software should you use to analyze the given data?
+	a. Text Editor Load up the CSV in a plain text editor and look manually through the data.
+	b. A Spreadsheet editor like MS Excel
+	c. Professional Business Intelligence & Analytics softwarelike SAP Analytics Cloud, Tableau, etc.
+	d. Professional Data Storage Solution like Oracle Database, SAP HANA, Microsoft SQL Server
+
+## Task Two Scenario
+
+Your second task is to import the client's data into SAP Analytics Cloud and to analyze it.
+
+
